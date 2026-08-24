@@ -94,7 +94,7 @@ ChatGPTにコードを貼り付けて質問するだけでなく、**開発プ�
 
 基本的には、次のように使い分けます。
 
-![Codex・VS Code・GitHub Desktopの役割分担とJava Projectとの関係](images/tool_flow_diagram.png)
+<img src="images/tool_flow_diagram.png" alt="Codex・VS Code・GitHub Desktopの役割分担とJava Projectとの関係" width="50%">
 
 ------------------------------------------------------------------------
 
