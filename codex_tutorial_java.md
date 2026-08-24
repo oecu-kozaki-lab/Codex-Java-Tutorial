@@ -438,7 +438,10 @@ Codexの提案を読んでください。
 
 ## 4-1. バグを含むプログラムを実行する
 
-教員から指定された、意図的に問題を含めたプログラムを使用します。
+本チュートリアルでは、意図的にバグを含めた `langchain4j_Buggy.java` を使用します（教員から別のプログラムを指定された場合は、そちらを使用してください）。
+
+> `langchain4j_Buggy.java` と、その実行に使う `exercise5_input.txt` は、本チュートリアルのリポジトリの `materials` フォルダで配布しています。\
+> `langchain4j_Buggy.java` は `java-llm-samples` プロジェクトの `langchain4j-samples/src/main/java/jp/kozaki/lab/` フォルダに、`exercise5_input.txt` は `config.properties` と同じ階層（プロジェクトのルートフォルダ）に配置してください。
 
 まずCodexに次のように指示します。
 
